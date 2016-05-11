@@ -27,3 +27,4 @@ I measured the distance from my elbow to the ground when my arm was at a 90 degr
 
 The total build time was about 15 minutes and I am super pleased with the result.  I no longer have sore shoulders, wrist, or neck pains.  I find switching from standing to sitting, really helps break up the work day.  If you work with a computer for a living and have the space, I highly recommend building a standing desk.  Everything in moderation always seems to be the key to a happy life and regulating the amount of sitting you do, is not an exception to the rule.  10/10 would buy again.   
 
+
