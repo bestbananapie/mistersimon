@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyllated
-email:       jdwallace12@example.com
-author:      John Wallace
+title:       MisterSimon
+email:       contact@mistersimon.com
+author:      Mr Simon
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixyllated"
-url:         "jdwallace12.github.io/pixyllated/"
+baseurl:     ""
+url:         "https://mistersimon.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -16,12 +16,12 @@ animated:             false
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
-ajaxify_contact_form: false
+ajaxify_contact_form: true
 enable_mathjax: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: pixyll
+disqus_shortname: mistersimon
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
