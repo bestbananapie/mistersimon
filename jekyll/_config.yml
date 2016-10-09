@@ -2,7 +2,7 @@
 title:       MisterSimon
 email:       contact@mistersimon.com
 author:      Mr Simon
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A blog about my adventures in life"
 baseurl:     ""
 url:         "https://mistersimon.com"
 date_format: "%b %-d, %Y"
@@ -30,10 +30,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: bestbananapie
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: bestbananapie
 skype_username:
 steam_nickname:
 google_plus_id:

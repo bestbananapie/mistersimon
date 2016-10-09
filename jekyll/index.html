@@ -1,24 +1,6 @@
 ---
 layout: default
 ---
-<style type="text/css">
-.text-circle-outside {
-    width: 260px;
-    height: 260px;
-    background-size: cover;
-    float: left;
-    border-radius: 50%;
-    margin-right: 3em;
-    padding: 20px;
-    -webkit-shape-outside: circle();
-    shape-outside: circle();
-    transition: transform 1.5s ease;
-    will-change: transform;
-}
-.text-circle-outside:hover {
-  transform:scale(1.05);
-}
-</style>
 
 {% assign posts_count = (paginator.posts | size) %}
 
